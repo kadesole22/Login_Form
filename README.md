@@ -5,6 +5,6 @@ Signup UI
 ![My Image](Signup_Error.JPG)
 
 
-Logins UI
+Login UI
 ![My Image](Login.JPG)
 ![My Image](Login_Error.JPG)
