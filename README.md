@@ -1,5 +1,4 @@
-# Signup/Login_Form
-Front end of a user Signup/Login form
+# Signup/Login_UI
 
 Signup UI
 ![My Image](Signup.JPG)
